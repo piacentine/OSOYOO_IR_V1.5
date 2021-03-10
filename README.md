@@ -1,8 +1,8 @@
- # OSOYOO_IR for micro-bit V1.5
+ # cbit_IR for micro-bit
 
-Extension for OSOYOO Micro Bit V1.5
+Extension for ZYRobot cbit_IR
 
-Note: IR receiver for OSOYOO receiver
+Note: IR receiver for ZYRobot receiver
 
 ## License
 
