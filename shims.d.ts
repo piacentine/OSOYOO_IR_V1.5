@@ -10,7 +10,7 @@ declare namespace OSOYOO_IR {
      * button pushed.
      */
     //% blockId=ir_received_left_event
-    //% block="on |%btn| button pressed" shim=Mbit_IR::onPressEvent
+    //% block="on |%btn| button pressed" shim=OSOYOO_IR::onPressEvent
     function onPressEvent(btn: RemoteButton, body: () => void): void;
 
     /**
