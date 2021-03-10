@@ -53,7 +53,7 @@ CH_MINUS = 0x45,
 
 //% color=50 weight=19
 //% icon="\uf1eb"
-namespace Mbit_IR { 
+namespace OSOYOO_IR { 
   map<RemoteButton, vA> actions;
   map<RemoteButton, uint32_t> lastact;
   Timer tsb; 
